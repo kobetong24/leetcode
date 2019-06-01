@@ -1,2 +1,2 @@
-# leetcode
-Leetcode coding solution
+# leetcode coding colution
+
