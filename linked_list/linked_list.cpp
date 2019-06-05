@@ -61,6 +61,7 @@ int main() {
         node = new Node(input.at(i));
     }
     displayNode();
+    out << "---------------after reversed---------------" << endl;
     reverseLink(head,tail);
     displayNode();
     
